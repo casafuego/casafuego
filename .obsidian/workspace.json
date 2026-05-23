@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/2016-07-12-Mi poema favorito.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2016-07-12-Mi poema favorito"
             }
           }
         ]
@@ -181,11 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08dfa26306dddc24",
+  "active": "d3fa2be421cdc2ee",
   "lastOpenFiles": [
     "_posts/2016-07-12-Mi poema favorito.md",
-    "_posts/2026-05-23-bienvenida.md",
+    "_posts/2016-07-12-Mi poema favorito.md",
     "_posts/2026-05-23-Prueba de contenido.md",
+    "_posts/2026-05-23-bienvenida.md",
+    "index.md",
+    "now.md",
+    "about.md",
     "Untitled.md",
     "index.md.sb-fd9e7e6b-ZW571N"
   ]

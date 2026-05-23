@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi poema favorito
-date: 2106-12-07
+date: 2016-12-07
 ---
 El 13 de octubre del 2016 la Academia Sueca otorgó su premio Nobel de Literatura a Bob Dylan. Dinamita pura, las redes sociales explotaron en rechazo a quien para muchos no es un poeta. ¿Pero quién es un poeta?
 

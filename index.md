@@ -7,7 +7,7 @@ Hola, soy Cristhian. En algunos otros lugares del Internet también casafuego. E
 
 ---
 
-## Notas
+## Posts
 
 <ul class="post-list">
 {% for post in site.posts %}
