@@ -1,0 +1,15 @@
+title: Cristhian Fuentes
+description: Notas, ideas y proyectos.
+url: ""
+baseurl: ""
+permalink: /:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - setup-jekyll.sh
