@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 
-Hola, soy Cristhian. Escribo sobre estrategia, creatividad y las cosas que me interesan.
+Hola, soy Cristhian. Escribo sobre publicidad, creatividad y las cosas que me interesan.
 
 ---
 
