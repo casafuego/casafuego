@@ -232,11 +232,9 @@ article time {
 }
 
 .related-posts h2 {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 500;
   color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
   margin-bottom: 0.75rem;
 }
 
