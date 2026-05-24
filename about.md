@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: Acerca de
 ---
 
-# About
+# Acerca de
 
 Soy Cristhian Fuentes.
 
