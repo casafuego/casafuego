@@ -1,4 +1,4 @@
-/* ── Flexoki palette ── */
+/* ── Flexoki palette — light ── */
 :root {
   --bg:     #fffcf0;
   --text:   #100f0f;
@@ -7,6 +7,18 @@
   --border: #e6e4d9;
   --link:   #205ea6;
   --max-w:  660px;
+}
+
+/* ── Flexoki palette — dark ── */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:     #100f0f;
+    --text:   #fffcf0;
+    --muted:  #878580;
+    --subtle: #575653;
+    --border: #282726;
+    --link:   #4385be;
+  }
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
