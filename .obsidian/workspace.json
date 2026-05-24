@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "index"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "08dfa26306dddc24",
   "lastOpenFiles": [
+    "now.md",
     "index.md",
     "about.md",
     "_posts/2016-07-12-Mi poema favorito.md",
@@ -191,7 +192,6 @@
     "_posts/2016-07-12-Por qué me gustan los dinosaurios.md",
     "_posts/2026-05-23-bienvenida.md",
     "_posts/2026-05-23-Prueba de contenido.md",
-    "now.md",
     "Untitled.md",
     "index.md.sb-fd9e7e6b-ZW571N"
   ]
