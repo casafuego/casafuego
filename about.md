@@ -3,7 +3,7 @@ layout: default
 title: Acerca de
 ---
 
-# Cristhian Fuentes
+# Acerca de mí
 
 Publicista costarricense, Director General de [ORSON Agencia Digital](https://www.orsoncr.com/?utm_campaign=webcasafuego&utm_medium=direct&utm_source=casafuegosite).
 
