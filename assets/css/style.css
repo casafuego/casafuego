@@ -1,24 +1,30 @@
-/* ── Palette — light ── */
+/* ── Flexoki — https://stephango.com/flexoki ── */
+/* Base: paper #FFFCF0 · black #100F0F                          */
+/* Accent: red-400 #D14D41 (light) · red-400 #D14D41 (dark)    */
+
 :root {
-  --bg:     #FFFFFF;  /* brand white */
-  --text:   #222823;  /* ash gray shade — darkest */
-  --muted:  #435046;  /* ash gray shade — dark */
-  --subtle: #65786A;  /* ash gray shade — mid */
-  --border: #B2BEB5;  /* ash gray — base */
-  --link:   #D6303C;  /* brand red — contraste 4.7:1 sobre blanco */
-  --accent: #D6303C;
-  --max-w:  660px;
+  /* Flexoki light */
+  --bg:       #FFFCF0;  /* flexoki paper */
+  --text:     #100F0F;  /* flexoki black */
+  --muted:    #575653;  /* flexoki base-700 */
+  --subtle:   #6F6E69;  /* flexoki base-600 */
+  --border:   #CECDC3;  /* flexoki base-200 */
+  --link:     #D14D41;  /* flexoki red-400 — contraste 4.5:1 sobre paper */
+  --accent:   #D14D41;  /* flexoki red-400 */
+  --code-bg:  #E6E4D9;  /* flexoki base-100 */
+  --max-w:    660px;
 }
 
-/* ── Palette — dark ── */
+/* ── Flexoki dark ── */
 [data-theme="dark"] {
-  --bg:     #000000;  /* brand black */
-  --text:   #F0F2F0;  /* ash gray tint — lightest */
-  --muted:  #F0F2F0;  /* ash gray tint — lightest */
-  --subtle: #F0F2F0;  /* ash gray tint — lightest */
-  --border: #65786A;  /* ash gray shade — mid */
-  --link:   #FFD700;  /* gold — base */
-  --accent: #FFD700;
+  --bg:       #100F0F;  /* flexoki black */
+  --text:     #FFFCF0;  /* flexoki paper */
+  --muted:    #B7B5AC;  /* flexoki base-300 */
+  --subtle:   #9F9D96;  /* flexoki base-400 */
+  --border:   #403E3C;  /* flexoki base-800 */
+  --link:     #D14D41;  /* flexoki red-400 — contraste 4.8:1 sobre negro */
+  --accent:   #D14D41;  /* flexoki red-400 */
+  --code-bg:  #282726;  /* flexoki base-900 */
 }
 
 /* ── Theme toggle button ── */
@@ -60,12 +66,11 @@ header {
 }
 
 .site-title {
-  font-family: 'DM Serif Text', Georgia, serif;
-  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
   font-size: 1.15rem;
   color: var(--text);
   text-decoration: none;
-  letter-spacing: 0.01em;
   transition: color 0.15s ease;
 }
 
