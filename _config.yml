@@ -6,8 +6,6 @@ baseurl: ""
 author:
   name: Cristhian Fuentes
 
-twitter:
-  username: casafuego
 
 image: /assets/img/og-default.png
 permalink: /:title/
@@ -28,6 +26,12 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /temas/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/og-default.png
 
 exclude:
   - Gemfile
