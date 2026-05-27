@@ -270,8 +270,9 @@ article time {
 
 /* ── Footer emblem ── */
 .footer-emblem {
-  text-align: center;
-  margin: 4rem 0 0;
+  max-width: var(--max-w);
+  margin: 4rem auto 0;
+  padding: 0 1.5rem;
 }
 
 .footer-emblem img {
