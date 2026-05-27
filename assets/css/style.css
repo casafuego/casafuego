@@ -268,6 +268,18 @@ article time {
   text-decoration: none;
 }
 
+/* ── Footer emblem ── */
+.footer-emblem {
+  text-align: center;
+  margin: 4rem 0 0;
+}
+
+.footer-emblem img {
+  width: 28px;
+  height: 28px;
+  opacity: 0.35;
+}
+
 /* ── Footer ── */
 footer {
   max-width: var(--max-w);
