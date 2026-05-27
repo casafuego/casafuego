@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Cómo hacer un viral? Una anécdota.
+title: ¿Cómo hacer un viral?
 date: 2021-10-18
 slug: como-hacer-un-viral
 tags:

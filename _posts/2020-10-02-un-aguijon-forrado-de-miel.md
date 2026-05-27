@@ -2,7 +2,7 @@
 layout: post
 title: Un aguijón forrado de miel
 date: 2020-10-02
-slug: un-aguijon-forrado-de-miel
+slug: aguijon-forrado-de-miel
 tags:
   - publicidad
   - creatividad

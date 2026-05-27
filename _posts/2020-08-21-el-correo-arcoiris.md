@@ -2,7 +2,7 @@
 layout: post
 title: El correo arcoíris
 date: 2020-08-21
-slug: el-correo-arcoiris
+slug: correo-arcoiris
 tags:
   - productividad
 description: Correos incomprensibles

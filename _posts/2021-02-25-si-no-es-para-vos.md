@@ -2,7 +2,7 @@
 layout: post
 title: Si no es para vos, no es para vos
 date: 2021-02-25
-slug: si-no-es-para-vos
+slug: antibuyer-persona
 tags:
   - publicidad
   - estrategia
