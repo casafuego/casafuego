@@ -2,12 +2,12 @@
 layout: post
 title: Diez años de Madison
 date: 2023-11-01
-slug: diez-anos-de-madison
+slug: madison-diez
 tags:
   - publicidad
   - agencia
   - creatividad
-description: El génesis de MadGroup.
+description: El génesis de MadGroup
 ---
 Uno sabe que tiene una buena idea cuando, además de emoción, siente algo de miedo, o incluso mucho. Por lo general, esto lo generan las ideas innovadoras, esas grandes apuestas que implican lidiar con riesgo e incertidumbre. No es un camino para cobardes.
 

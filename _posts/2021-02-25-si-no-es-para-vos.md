@@ -6,9 +6,7 @@ slug: si-no-es-para-vos
 tags:
   - publicidad
   - estrategia
-  - audiencias
-  - buyer-persona
-description: El concepto de Anti Buyer Persona y por qué la estrategia también es claridad sobre qué no hacer.
+description: Anti Buyer Persona
 ---
 No se le puede caer bien a todo el mundo. Aplica en la vida y en la publicidad.
 

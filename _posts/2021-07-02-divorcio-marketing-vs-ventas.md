@@ -5,10 +5,8 @@ date: 2021-07-02
 slug: divorcio-marketing-vs-ventas
 tags:
   - marketing
-  - ventas
   - estrategia
-  - crm
-description: Historias de cuando Marketing va por un lado y Ventas por otro.
+description: Cuando Marketing va por un lado y Ventas por otro
 ---
 Hace unos doce años seguía en Twitter a una tienda de discos. Era de las pocas marcas que se lanzaban de cabeza a la plataforma, algo casi experimental. En realidad muchos de los usuarios actuábamos de esa forma, tratábamos de entender Twitter y por qué lo usábamos. Eran otros tiempos de Twitter.
 

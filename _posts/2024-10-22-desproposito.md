@@ -6,7 +6,6 @@ slug: desproposito
 tags:
   - publicidad
   - estrategia
-  - propósito-de-marca
 description: El propósito es el negocio. El negocio es el propósito.
 ---
 Mucho se critica a las marcas que buscan "salvar el mundo", especialmente en época de festivales publicitarios, donde estos mensajes abundan.

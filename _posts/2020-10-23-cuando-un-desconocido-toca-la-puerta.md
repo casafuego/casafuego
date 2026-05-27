@@ -7,7 +7,7 @@ tags:
   - marketing-digital
   - publicidad
   - permission-marketing
-description: Nadie compra algo de alguien en quien no confía.
+description: Nadie compra algo de alguien en quien no confía
 ---
 Es una historia conocida. Abrimos la bandeja de correos y hay uno (o varios) con títulos como "Catálogo de Ventas", "Ventas", "Promociones" y similares. Vienen de una dirección de correo desconocida y jamás hemos escuchado algo de la persona ni empresa que lo envía. Entonces surgen las preguntas. ¿Cómo obtuvieron mis datos? ¿Cómo saben que me interesan sus productos? ¿No saben el daño que este tipo de cosas hacen a su marca?
 

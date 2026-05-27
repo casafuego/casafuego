@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Navegar" en Internet
+title: Navegar en Internet
 date: 2021-05-07
 slug: navegar-en-internet
 tags:
   - internet
-  - marketing-digital
   - estrategia
-  - medios
-description: Qué implica estar conectados y cómo este entendimiento incide en la manera en que hacemos estrategias de comunicación.
+description: Qué implica estar conectados
 ---
 La primera vez que conocí Internet fue en el Papalote Museo del Niño de México. Corría el año 2000 y yo tenía once. Gracias a un concurso académico de la Embajada de México en Costa Rica, pude viajar como representante de la escuela pública a la que asistía. Yo nunca había visto una computadora conectarse a eso que llamaban Internet, *"navegar"* era el término que se usaba para referirse a ese privilegio.
 

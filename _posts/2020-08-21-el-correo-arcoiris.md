@@ -4,10 +4,8 @@ title: El correo arcoíris
 date: 2020-08-21
 slug: el-correo-arcoiris
 tags:
-  - comunicación
   - productividad
-  - marketing-digital
-description: .
+description: Correos incomprensibles
 ---
 "Te respondo en azul." "En rojo mis comentarios." "Dejo mis observaciones en amarillo." "En verde mis opiniones." "Te digo lo que pienso en negrita." Y después de unos cuantos intercambios, terminamos con un correo arcoíris. Un documento usualmente incomprensible, que lejos de aportar a la coordinación de un proyecto, dificulta la comunicación.
 

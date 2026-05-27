@@ -7,8 +7,7 @@ tags:
   - publicidad
   - creatividad
   - cultura
-  - caricatura
-description: El legado de Quino y una frase que es brújula.
+description: El mundo necesita caricaturistas
 ---
 Murió Quino. Casualmente hace unas semanas estuve leyendo *"Las Reputaciones"* de Juan Gabriel Vázquez. Una novela corta que narra la historia "ficticia" de un reconocido caricaturista colombiano y su exitosa carrera. En un fragmento, al aceptar un premio a la trayectoria, el protagonista recuerda a su maestro:
 
