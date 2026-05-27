@@ -3,6 +3,8 @@ description: Publicidad, ideas, proyectos y otras cosas.
 url: "https://casafuego.github.io"
 baseurl: ""
 
+lang: es_ES
+
 author:
   name: Cristhian Fuentes
 

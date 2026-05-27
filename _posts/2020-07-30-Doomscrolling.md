@@ -2,6 +2,7 @@
 layout: post
 title: Doomscrolling | Caos adictivo
 date: 2020-07-30
+slug: doomscrolling
 tags:
   - tecnología
   - vida

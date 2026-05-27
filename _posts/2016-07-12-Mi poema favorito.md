@@ -2,6 +2,7 @@
 layout: post
 title: Mi poema favorito
 date: 2016-12-07
+slug: mi-poema-favorito
 tags:
   - tecnología
   - ai

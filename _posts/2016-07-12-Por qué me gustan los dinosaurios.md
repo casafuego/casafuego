@@ -2,6 +2,7 @@
 layout: post
 title: ¿Por qué me gustan los dinosaurios?
 date: 2015-12-04
+slug: por-que-me-gustan-los-dinosaurios
 tags:
   - vida
 description: Siempre invento una respuesta distinta, acá va una
