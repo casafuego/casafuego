@@ -11,12 +11,14 @@
             "id": "08dfa26306dddc24",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/img/favicon.png"
+                "file": "_posts/2021-10-18-como-hacer-un-viral.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "favicon"
+              "icon": "lucide-file",
+              "title": "2021-10-18-como-hacer-un-viral"
             }
           }
         ]
@@ -181,8 +183,14 @@
   },
   "active": "08dfa26306dddc24",
   "lastOpenFiles": [
-    "assets/img/og-default.png",
+    "_posts/2021-11-29-libros-2021.md",
+    "_posts/2021-11-08-qr-codes-y-publicidad.md",
+    "_posts/2021-11-15-cinco-lecturas.md",
     "assets/img/favicon.png",
+    "_posts/2021-10-25-this-is-marketing.md",
+    "_posts/2021-10-18-como-hacer-un-viral.md",
+    "_posts/2021-09-27-obsolescencia-programada.md",
+    "assets/img/og-default.png",
     "about.md",
     "_posts/2016-07-12-Mi poema favorito.md",
     "assets/img/casafuego-favicon.png",
