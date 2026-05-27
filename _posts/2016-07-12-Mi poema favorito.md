@@ -25,4 +25,4 @@ Pero ahora pienso que juntar esas palabras como a Borges le tomó décadas, hoy 
 
 Desde hace años las computadoras imitan la capacidad humana para hacer complicadas operaciones matemáticas en segundos, y eso no nos genera conflicto. Entonces ¿deberíamos sentirnos amenazados cuando una máquina escriba el poema más hermoso del mundo? 
 
-¿Qué se dirá en las redes sociales cuando la academia entregue el Nobel de Literatura a un robot? No estoy seguro de si eso sucederá, pero sí de que no fue una computadora la que en junio de 1965 se sintió perdida y tuvo la necesidad de escribir esas ocho estrofas que marcaron la historia. Mi poema favorito es *Like a rolling stone*.
+¿Qué se dirá en las redes sociales cuando la academia entregue el Nobel de Literatura a un robot? No estoy seguro de si eso sucederá. Pero sí de que no fue una computadora la que en junio de 1965 se sintió perdida, y tuvo la necesidad de escribir esas ocho estrofas que marcaron la historia. Mi poema favorito es *Like a rolling stone*.
