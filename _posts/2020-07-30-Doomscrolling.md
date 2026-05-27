@@ -22,4 +22,4 @@ A su vez, la validación social plantea trampas: ser los primeros en compartir e
 
 La posibilidad de desconexión es utopía, por lo que es mejor hablar de curación. Podríamos empezar por planificar el tiempo que pasaremos consumiendo contenidos y controlar su calidad a través de cuestionamiento y validación rigurosa de fuentes.  
 
-Depurar el contenido y nuestros círculos en redes sociales son posibles curas para el _doomscrolling_. Así, la próxima vez que dejemos de lado el teléfono y descansemos la vista, talvez tengamos esperanza para pensar que _todo va a estar bien_.
+[Depurar el contenido](/guia-consumo-digital) y nuestros círculos en redes sociales son posibles curas para el _doomscrolling_. Así, la próxima vez que dejemos de lado el teléfono y descansemos la vista, talvez tengamos esperanza para pensar que _todo va a estar bien_.

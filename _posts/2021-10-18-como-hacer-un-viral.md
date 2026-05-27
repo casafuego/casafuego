@@ -28,7 +28,7 @@ Simplemente un día la cantidad de vistas superó las cien mil en cuestión de h
 
 Todavía hoy no puedo explicar qué pasó. Sospecho que alguna página de Facebook de memes y videos le ayudó a dar el brinco a Estados Unidos. A partir de eso fue una imparable bola de nieve.
 
-Uno de los marcos teóricos más prácticos para analizar lo viral es el que popularizó Malcolm Gladwell con su bestseller *The Tipping Point*. En la obra se proponen tres posibles características de cualquier producto viral:
+Uno de los marcos teóricos más prácticos para analizar lo viral es el que popularizó Malcolm Gladwell con su bestseller *The Tipping Point* —un libro que [recomiendo con entusiasmo](/libros-2022). En la obra se proponen tres posibles características de cualquier producto viral:
 
 1. El factor "pegajoso": qué tan impactante o memorable es el mensaje.
 2. El contexto. Cuando las estrellas se alinean.
