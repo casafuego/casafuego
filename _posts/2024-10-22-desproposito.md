@@ -22,5 +22,11 @@ Lo cierto es que las ideas más relevantes y ganadoras demuestran que es posible
 
 Por ejemplo, y ya para cerrar este mensaje, *The Gamer Loan*, una campaña de ParadaisDDB en Ecuador para Banco del Pacífico. Se trata de colocar créditos (negocio) y, al mismo tiempo, ayudar a jóvenes gamers a acceder a productos financieros (propósito).
 
+https://www.youtube.com/watch?v=L4RJPxrn9pE
 
-![](https://www.youtube.com/watch?v=L4RJPxrn9pE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L4RJPxrn9pE?si=VTlLMjRFB3-AqeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L4RJPxrn9pE?si=VTlLMjRFB3-AqeLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
