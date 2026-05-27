@@ -5,7 +5,6 @@ date: 2021-11-08
 slug: qr-codes-y-publicidad
 tags:
   - publicidad
-  - digital
   - creatividad
 description: La historia del recurso que tuvo que esperar una pandemia para despegar
 ---

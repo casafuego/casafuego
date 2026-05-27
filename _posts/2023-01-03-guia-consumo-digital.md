@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Las arenas movedizas del contenido digital
+title: Guía de consumo digital
 date: 2023-01-03
 slug: guia-consumo-digital
 tags:
-  - digital
   - vida
   - tecnología
 description: La rutina que me ayuda a navegar sin hundirme

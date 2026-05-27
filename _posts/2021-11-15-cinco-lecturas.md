@@ -5,8 +5,6 @@ date: 2021-11-15
 slug: cinco-lecturas
 tags:
   - lecturas
-  - curaduría
-  - digital
 description: Cinco links que tienen un buen rato dando vueltas en mi lista
 ---
 

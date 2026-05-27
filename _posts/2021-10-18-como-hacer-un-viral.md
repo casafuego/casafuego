@@ -5,7 +5,6 @@ date: 2021-10-18
 slug: como-hacer-un-viral
 tags:
   - publicidad
-  - digital
   - ideas
 description: La historia de un video viral que tuve en mis manos antes de que nadie lo supiera
 ---
