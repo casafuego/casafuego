@@ -21,3 +21,6 @@ El propósito de marca no es una campaña, ni un eslogan inspirador que ponemos 
 Lo cierto es que las ideas más relevantes y ganadoras demuestran que es posible la intersección elegante y fluida entre propósito y negocio.
 
 Por ejemplo, y ya para cerrar este mensaje, *The Gamer Loan*, una campaña de ParadaisDDB en Ecuador para Banco del Pacífico. Se trata de colocar créditos (negocio) y, al mismo tiempo, ayudar a jóvenes gamers a acceder a productos financieros (propósito).
+
+
+![](https://www.youtube.com/watch?v=L4RJPxrn9pE)
